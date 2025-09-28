@@ -54,6 +54,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/MyBatis-B32624?style=flat-square&logo=Java&logoColor=white"/>  
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>  
   <img src="https://img.shields.io/badge/eGovFramework-005BAC?style=flat-square&logo=Java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=Java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Servlet-5382A1?style=flat-square&logo=Java&logoColor=white"/>  
 </p>  
 
 ## 🐍 Python  
