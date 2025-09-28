@@ -2,24 +2,6 @@
 - 🌱 rust, java , python, javascript를 중점적으로 공부하고 있습니다. 
 - 📫 저에게 연락 하시려면 rlawlsdn1020@gmail.com으로 연락 주시면 됩니다.
 
-
-<!---
-jinwoo123456/jinwoo123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=#ff9191&height=200px&section=header&text=김진우_포트폴리오)
-
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
-  
   .# 🧱 Tech Stack  
 ### 🔹 Language  
 <p align="left">  
