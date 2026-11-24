@@ -1,6 +1,4 @@
-- 👋 개발자 김진우입니다
-- 🌱 rust, java , python, javascript를 중점적으로 공부하고 있습니다. 
-- 📫 저에게 연락 하시려면 rlawlsdn1020@gmail.com으로 연락 주시면 됩니다.
+- 러스트로이더
 
 ### 🧱 Tech Stack  
 ### 🔹 Language  
