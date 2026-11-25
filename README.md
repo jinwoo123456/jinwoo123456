@@ -30,9 +30,10 @@ Distributed Systems, and AI Engineering.
   <img src="https://img.shields.io/badge/SeaORM-0B5E2A?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLx-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tokio-222222?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serde-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black"/>
   <img src="https://img.shields.io/badge/egui-FF7139?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Serde-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bevy-232326?style=flat-square&logo=bevy&logoColor=white"/>
 </p>
 
 #### 🐍 Python
