@@ -61,6 +61,13 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
 </p> 
 
+## 📱 Dart / Flutter
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</p>
 ---
 
 ### 🔹 Database  
