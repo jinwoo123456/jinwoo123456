@@ -42,6 +42,9 @@ Distributed Systems, and AI Engineering.
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/DearPyGui-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
 #### ☕ Java
@@ -79,6 +82,25 @@ Distributed Systems, and AI Engineering.
 </p>
 
 ---
+
+### 🔹 AI Engineering & Agent Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-4169E1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM_Orchestration-4F46E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-0D9488?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Context_Engineering-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM_Observability-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM_Evaluation-E11D48?style=flat-square"/>
+</p>
+
+### 🔹 AI Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+</p>
 
 ### 🔹 Database & Cache
 <p align="left">
