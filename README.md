@@ -16,16 +16,17 @@
 ### 🔹 Framework & Library  
 
 ## 🦀 Rust  
-<p align="left">  
-  <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=Rust&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SeaORM-0B5E2A?style=flat-square&logo=Rust&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Sqlx-000000?style=flat-square&logo=Rust&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Tokio-222222?style=flat-square&logo=Rust&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=Tauri&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/egui-FF7139?style=flat-square&logo=Rust&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Serde-000000?style=flat-square&logo=Rust&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Polars-4B275F?style=flat-square&logo=Rust&logoColor=white"/>  
-</p>  
+<p align="left">
+  <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loco-000000?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SeaORM-0B5E2A?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLx-000000?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tokio-222222?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=Tauri&logoColor=black"/>
+  <img src="https://img.shields.io/badge/egui-FF7139?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serde-000000?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-4B275F?style=flat-square&logo=Rust&logoColor=white"/>
+</p>
 
 ## ☕ Java  
 <p align="left">  
@@ -53,10 +54,12 @@
 </p>  
 
 ## ⚛️ JavaScript / TypeScript  
-<p align="left">  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>  
-</p>  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
+</p> 
 
 ---
 
